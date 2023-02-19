@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\bin\Debug\FirstWindowsWormsApp.exe.config
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\bin\Debug\FirstWindowsWormsApp.exe
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\bin\Debug\FirstWindowsWormsApp.pdb
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\obj\Debug\FirstWindowsWormsApp.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\obj\Debug\FirstWindowsWormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\obj\Debug\FirstWindowsWormsApp.Form1.resources
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\obj\Debug\FirstWindowsWormsApp.Properties.Resources.resources
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\obj\Debug\FirstWindowsWormsApp.csproj.GenerateResource.cache
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\obj\Debug\FirstWindowsWormsApp.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\obj\Debug\FirstWindowsWormsApp.exe
+C:\Users\1\Desktop\C#\Задание 5\FirstWindowsWormsApp\FirstWindowsWormsApp\obj\Debug\FirstWindowsWormsApp.pdb
